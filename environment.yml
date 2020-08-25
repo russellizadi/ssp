@@ -1,0 +1,14 @@
+name: ssp
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - torchvision
+  - pytorch
+  - cudatoolkit=10.2
+  - jupyter
+  - jupyterlab
+  - seaborn
+  - tensorboard
+  - matplotlib
+
