@@ -15,3 +15,7 @@ conda env create
 ```
 conda activate ssp
 ```
+- Go to the 'experiments' folder:
+```
+cd experiments
+```
