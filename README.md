@@ -19,3 +19,7 @@ conda activate ssp
 ```
 cd experiments
 ```
+- Run all the experiments performed in the paper:
+```
+./run.sh
+```
