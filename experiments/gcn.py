@@ -9,7 +9,7 @@ from train_eval import run
 parser = argparse.ArgumentParser()
 parser.add_argument('--dataset', type=str, required=True)
 parser.add_argument('--split', type=str, default='public')
-parser.add_argument('--runs', type=int, default=2)
+parser.add_argument('--runs', type=int, default=10)
 parser.add_argument('--epochs', type=int, default=200)
 parser.add_argument('--lr', type=float, default=0.01)
 parser.add_argument('--weight_decay', type=float, default=0.0005)
